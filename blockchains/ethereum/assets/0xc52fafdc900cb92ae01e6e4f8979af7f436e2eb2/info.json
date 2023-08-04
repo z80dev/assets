@@ -1,0 +1,11 @@
+{
+    "name": "Settled ETHXY Token",
+    "symbol": "SEXY",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Settled ETH XY Token is an ERC20 token of the ETH XY game",
+    "website": "https://ethxy.com",
+    "explorer": "https://etherscan.io/token/0xc52fafdc900cb92ae01e6e4f8979af7f436e2eb2",
+    "status": "active",
+    "id": "0xc52fafdc900cb92ae01e6e4f8979af7f436e2eb2"
+}

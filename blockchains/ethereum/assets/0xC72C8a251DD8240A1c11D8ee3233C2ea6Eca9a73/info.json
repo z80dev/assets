@@ -1,0 +1,11 @@
+{
+    "name": "ETHXY Token",
+    "symbol": "EXY",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "ETH XY Token is the ERC20 token of the ETH XY game",
+    "website": "https://ethxy.com",
+    "explorer": "https://etherscan.io/token/0xC72C8a251DD8240A1c11D8ee3233C2ea6Eca9a73",
+    "status": "active",
+    "id": "0xC72C8a251DD8240A1c11D8ee3233C2ea6Eca9a73"
+}
